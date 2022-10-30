@@ -1,0 +1,14 @@
+.contacts {
+    width: 100px;
+    padding: 10px 15px;
+    font-family: 'nunito';
+    border: 2px solid plum;
+    color: plum;
+    margin: auto;
+}
+
+.contacts:hover {
+    width: 100px;
+    color: white;
+    border: 2px solid white;
+}
